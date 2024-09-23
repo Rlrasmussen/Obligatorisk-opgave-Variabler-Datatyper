@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obligatorisk opgave – Variabler & Datatyper", "Obligatorisk opgave – Variabler & Datatyper.csproj", "{10AC8607-A3AD-4C71-B66F-E688A2334C28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10AC8607-A3AD-4C71-B66F-E688A2334C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10AC8607-A3AD-4C71-B66F-E688A2334C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10AC8607-A3AD-4C71-B66F-E688A2334C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10AC8607-A3AD-4C71-B66F-E688A2334C28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13093A9E-0A86-4975-AB27-B35934475C59}
+	EndGlobalSection
+EndGlobal

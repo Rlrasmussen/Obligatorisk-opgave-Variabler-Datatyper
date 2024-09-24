@@ -26,6 +26,12 @@ namespace Obligatorisk_opgave___Variabler___Datatyper
             Console.WriteLine("Your task is to guess a random number inbetween 0-100. What do you guess?");
             int guessNumber = Convert.ToInt32(Console.ReadLine());
 
+            while (guessNumber <0 || guessNumber > 100)
+            {
+                Console.WriteLine("Your guess need to be in between 0-100. Guess again");
+                guessNumber = Convert.ToInt32(Console.ReadLine());
+            }
+
             //The differents between the numbers 
             int difNumber = Math.Abs(randomNumber - guessNumber);
 
